@@ -14,15 +14,16 @@ export default function Home() {
       {/* About */}
       <section className="space-y-4 text-[15px] leading-relaxed">
         <p>
-          Really fascinated by a lot of things! 
-          Worked at an ML company in hs. Made a club to pump out new students for solution at college.
-          Did some research in neuroscience, continual learning, and aging but so many cool things to explore.
-
-          Now figuring out the next thing.
+          Really fascinated by a lot of things! Worked at an ML company in hs.
+          Made a club to make real world solutions for problems students face at
+          college, with thousands of users. Did some research in neuroscience,
+          continual learning, and aging but so many cool things to explore. Now
+          figuring out the next thing.
         </p>
         <p>
-          Want to work on big ideas that will matter for many years to come. Bigger and better.
-          Currently in SF, so if in the area feel free to reach out! 
+          Want to work on big ideas that will matter for many years to come.
+          Bigger and better. Currently in SF, so if in the area feel free to
+          reach out!
         </p>
       </section>
 
@@ -81,7 +82,11 @@ export default function Home() {
           <a href="https://github.com/sjbaebae" target="_blank" rel="noopener">
             github
           </a>
-          <a href="https://linkedin.com/in/sungjaebae" target="_blank" rel="noopener">
+          <a
+            href="https://linkedin.com/in/sungjaebae"
+            target="_blank"
+            rel="noopener"
+          >
             linkedin
           </a>
           <a href="https://x.com/sunjaebae" target="_blank" rel="noopener">
@@ -90,5 +95,5 @@ export default function Home() {
         </div>
       </section>
     </div>
-  )
+  );
 }
